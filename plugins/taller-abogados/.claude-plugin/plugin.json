@@ -1,0 +1,6 @@
+{
+  "name": "taller-abogados",
+  "version": "1.0.0",
+  "description": "Revisión rápida de NDA bajo ley venezolana (verde, amarillo, rojo).",
+  "author": { "name": "Taller de Claude" }
+}

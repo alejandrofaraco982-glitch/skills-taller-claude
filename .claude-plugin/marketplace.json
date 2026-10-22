@@ -1,0 +1,28 @@
+{
+  "name": "taller-claude",
+  "description": "Skills del Taller de Claude por rol: abogados, contadores y marketing.",
+  "owner": {
+    "name": "Taller de Claude"
+  },
+  "plugins": [
+    {
+      "name": "taller-abogados",
+      "source": "./plugins/taller-abogados",
+      "description": "Revisión rápida de NDA bajo ley venezolana (verde, amarillo, rojo)."
+    },
+    {
+      "name": "taller-contadores",
+      "source": "./plugins/taller-contadores",
+      "description": "Estados financieros bajo VEN-NIF con tasa BCV e inflación."
+    },
+    {
+      "name": "marketing",
+      "source": {
+        "source": "git-subdir",
+        "url": "anthropics/knowledge-work-plugins",
+        "path": "marketing"
+      },
+      "description": "Plugin Marketing de Anthropic: planear campañas, redactar contenido y revisar la voz de marca (brand-review, campaign-plan, draft-content y más)."
+    }
+  ]
+}

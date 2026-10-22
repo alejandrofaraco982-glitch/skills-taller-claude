@@ -1,0 +1,6 @@
+{
+  "name": "taller-contadores",
+  "version": "1.0.0",
+  "description": "Estados financieros bajo VEN-NIF con tasa BCV e inflación.",
+  "author": { "name": "Taller de Claude" }
+}
