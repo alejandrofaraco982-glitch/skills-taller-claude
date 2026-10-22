@@ -1,0 +1,8 @@
+{
+  "name": "taller-marketing",
+  "version": "1.0.0",
+  "description": "Planear campañas, redactar contenido y revisar la voz de marca (skills de Anthropic, Apache 2.0).",
+  "author": {
+    "name": "Taller de Claude"
+  }
+}

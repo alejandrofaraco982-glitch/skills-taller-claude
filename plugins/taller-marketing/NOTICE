@@ -1,0 +1,6 @@
+Las skills brand-review, campaign-plan y draft-content son copia de
+https://github.com/anthropics/knowledge-work-plugins (plugin "marketing"),
+de Anthropic, PBC, con licencia Apache 2.0 (ver LICENSE en esta carpeta).
+
+Cambio hecho: en cada SKILL.md se reemplazo la linea que enlazaba a
+CONNECTORS.md por una instruccion para responder en el idioma del usuario.
